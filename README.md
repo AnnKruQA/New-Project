@@ -1,1 +1,1 @@
-
+I am a junior software tester. I have obtained ISTQB FL certificate. I have performed functional tests of applications in English, German, Italian and Polish. I have executed integration tests of web and iOS and Android mobile applications. I have tested responsive web design. I report bugs in Jira and creat documentation in Confluence. I proofread content in English. I have worked in Scrum in international teams. I have an interest in digital accessibility.
